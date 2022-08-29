@@ -1,0 +1,26 @@
+.row{  display: flex;
+    background-color: azure;
+
+}
+#first{
+    width:133px ;
+    height:240px ;
+    background-color: #002B7F  ;
+    /* margin-top: 100px;
+    margin-left: 50px;
+    border-left: 133px; */
+}   
+
+#second{
+
+    width:133px ;
+    height:240px ;
+    background-color: #FCD116  ;
+}   
+
+#third{
+    width:133px ;
+    height:240px ;
+    background-color: #CE1126  ;
+    /* border-right: 133px; */
+}   
